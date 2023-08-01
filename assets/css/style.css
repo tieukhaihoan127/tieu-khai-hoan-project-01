@@ -200,6 +200,18 @@
     .section-one .inner-desc{
         margin-bottom:16px;
     }
+    .section-one .inner-title1{
+        margin-left:0;
+    }
+    .section-one .inner-title2{
+        margin-left:0;
+    }
+    .section-one .inner-desc{
+        margin-left:0;
+    }
+    .section-one .inner-content{
+        margin-left:0;
+    }
 }
 /* End Section One */
 /* Button */
